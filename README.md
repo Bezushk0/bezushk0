@@ -16,7 +16,8 @@ Here are some of the landing pages I created during the Mate Academy course:
 7. **Museum-2**  
    🔗 [View Project](https://bezushk0.github.io/Museum-2/) | [Source Code](https://github.com/Bezushk0/Museum-2)
 
-9. **Kickstarter** *(In Progress)*  
+9. **CrazyBaby**  
+   🔗 [View Project](https://bezushk0.github.io/CrazyBaby/) | [Source Code](https://github.com/Bezushk0/CrazyBaby/)
 
 ---
 
