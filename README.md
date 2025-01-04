@@ -18,6 +18,13 @@ Here are some of the landing pages I created during the Mate Academy course:
 
 9. **CrazyBaby**  
    🔗 [View Project](https://bezushk0.github.io/CrazyBaby/) | [Source Code](https://github.com/Bezushk0/CrazyBaby/)
+   
+9. **CreativeBakery**  
+   🔗 [View Project](https://bezushk0.github.io/layout_creativeBakery/) | [Source Code](https://github.com/Bezushk0/layout_creativeBakery)
+   
+9. **CreativeBakery**  
+   🔗 [View Project](https://bezushk0.github.io/layout_KateVR/) | [Source Code](https://github.com/Bezushk0/layout_KateVR)
+   
 
 ---
 
