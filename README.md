@@ -22,8 +22,8 @@ Here are some of the landing pages I created during the Mate Academy course:
 9. **CreativeBakery**  
    🔗 [View Project](https://bezushk0.github.io/CreativeBakery/) | [Source Code](https://github.com/Bezushk0/CreativeBakery)
    
-9. **CreativeBakery**  
-   🔗 [View Project](https://bezushk0.github.io/layout_KateVR/) | [Source Code](https://github.com/Bezushk0/layout_KateVR)
+9. **KateVR**  
+   🔗 [View Project](https://bezushk0.github.io/KateVR/) | [Source Code](https://github.com/Bezushk0/KateVR/)
    
 
 ---
