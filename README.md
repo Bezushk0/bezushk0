@@ -26,12 +26,6 @@ Here are some of the landing pages I created during the Mate Academy course:
    🔗 [View Project](https://bezushk0.github.io/KateVR/) | [Source Code](https://github.com/Bezushk0/KateVR/)
    
 
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bezushk0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 ### 📜 My Codewars Progress
