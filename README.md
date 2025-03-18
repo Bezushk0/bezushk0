@@ -12,7 +12,7 @@
 | **CreativeBakery** | [View Project](https://bezushk0.github.io/CreativeBakery/) | [Source Code](https://github.com/Bezushk0/CreativeBakery) | HTML, SCSS |
 | **KateVR**     | [View Project](https://bezushk0.github.io/KateVR/)         | [Source Code](https://github.com/Bezushk0/KateVR/)        | HTML, SCSS, JS |
 | **2048 Game**     | [View Project](https://bezushk0.github.io/2048_game_js/)         | [Source Code](https://github.com/Bezushk0/2048_game_js)        | JS |
-| **Gadgets store**     | [View Project](https://bezushk0.github.io/Gadgets-store)         | [Source Code](https://github.com/Bezushk0/Gadgets-store)        | SCSS, React, TS |
+| **Gadgets store**     | [View Project](https://bezushk0.github.io/Gadgets-store)         | [Source Code](https://github.com/Bezushk0/Gadgets-store)        | SCSS, React, Redux, TS|
    
 
 ###
