@@ -13,7 +13,7 @@
 | **KateVR**     | [View Project](https://bezushk0.github.io/KateVR/)         | [Source Code](https://github.com/Bezushk0/KateVR/)        | HTML, SCSS, JS |
 | **2048 Game**     | [View Project](https://bezushk0.github.io/2048_game_js/)         | [Source Code](https://github.com/Bezushk0/2048_game_js)        | JS |
 | **Gadgets store**     | [View Project](https://bezushk0.github.io/Gadgets-store)         | [Source Code](https://github.com/Bezushk0/Gadgets-store)        | SCSS, React, Redux, TS|
-| **Fullstack auth**     | [View Project](https://github.com/Bezushk0/fullstack_auth-app)         | [Source Code](https://fullstack-auth-app-client.vercel.app/)        | React, Redux, NodeJS, PostgreSQL|
+| **Fullstack auth**     | [View Project](https://fullstack-auth-app-client.vercel.app/)         | [Source Code](https://github.com/Bezushk0/fullstack_auth-app)        | React, Redux, NodeJS, PostgreSQL|
    
 
 ###
